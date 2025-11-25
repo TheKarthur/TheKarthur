@@ -9,7 +9,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-padilha/)
-  [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-135BEC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karthur.com.br)
+  [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-135BEC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arthurpadilha.com)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthurpadilha@gmail.com)
 
 </div>
@@ -51,5 +51,5 @@ Sou **Técnico em Eletrônica** e estudante de **Engenharia de Computação na U
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | **[SnapPredict](https://snappredict.karthur.com.br/)** | React, TS, PHP, MySQL | Plataforma SaaS de previsões sociais com sistema de votação e ranking. |
-| **[Portfólio Pessoal](https://karthur.com.br)** | React, Tailwind, Vite | Meu site pessoal com blog e showcase de projetos (SPA moderno). |
+| **[Portfólio Pessoal](https://arthurpadilha.com)** | React, Tailwind, Vite | Meu site pessoal com blog e showcase de projetos (SPA moderno). |
 | **SDPPA (Mostratec)** | Python, OpenCV | Software premiado internacionalmente para detecção de poluição plástica em rios. |
