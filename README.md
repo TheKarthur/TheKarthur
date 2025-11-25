@@ -20,9 +20,9 @@
 
 Sou **Técnico em Eletrônica** e estudante de **Engenharia de Computação na UFRGS**. Atualmente trabalho como **Desenvolvedor de Software** focado em soluções industriais (MES) e integração de sistemas corporativos.
 
-* 🔭 Atualmente trabalhando em: **Integrações SAP & Sistemas MES** com .NET.
+* 🔭 Atualmente trabalhando em: **Softwares** com .NET.
 * 🏆 **Conquista:** 4º Lugar na MOSTRATEC 2023 (Ciência da Computação) com projeto de Visão Computacional.
-* 🌱 Estudando: **Arquitetura de Software, React Avançado e Cloud Computing**.
+* 🌱 Estudando: **Arquitetura de Software, React e Cloud Computing**.
 * ⚡ Foco: Criar soluções que unem o chão de fábrica (Hardware) ao corporativo (Software).
 
 ---
